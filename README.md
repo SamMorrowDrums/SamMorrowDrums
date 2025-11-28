@@ -6,7 +6,7 @@ I'm a Senior Software Engineer at [GitHub](https://github.com), building tools t
 
 **[GitHub MCP Server](https://github.com/github/github-mcp-server)** - I build and maintain GitHub's official Model Context Protocol server, enabling AI agents to interact with GitHub.
 
-**[Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol)** - Contributing to the MCP specification, particularly around [security best practices](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/641) and [session management](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/648).
+**[Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol)** - Contributing to the MCP specification including SEPs for [Tool Resolution](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1862) and [Trust Annotations](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1913), plus security docs on [session hijacking](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/641).
 
 ## Talks & Appearances
 
