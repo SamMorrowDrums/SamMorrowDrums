@@ -1,6 +1,6 @@
 ### Hey, I'm Sam
 
-I'm a Senior Software Engineer at [GitHub](https://github.com), building tools that help developers work with AI.
+I'm a Staff Software Engineer at [GitHub](https://github.com), building tools that help developers work with AI.
 
 ## Current Focus
 
